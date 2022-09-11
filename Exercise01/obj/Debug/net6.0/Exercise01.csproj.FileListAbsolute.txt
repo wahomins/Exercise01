@@ -1,0 +1,12 @@
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.deps.json
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.dll
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\bin\Debug\net6.0\Exercise01.pdb
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.csproj.AssemblyReference.cache
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.AssemblyInfo.cs
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.dll
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\refint\Exercise01.dll
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\Exercise01.pdb
+C:\Users\Colli\Desktop\Microsoft Interview\Exercise01\Exercise01\Exercise01\obj\Debug\net6.0\ref\Exercise01.dll

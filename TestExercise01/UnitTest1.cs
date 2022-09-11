@@ -22,10 +22,10 @@ namespace TestExercise01
         [TestMethod]
         public void TestQuantilion()
         {
-            if (BigInteger.TryParse("eighteen quintillion", out BigInteger bigInteger))
+            if (BigInteger.TryParse("18000000000000000000", out BigInteger bigInteger))
             {
                 var inWords = bigInteger.Towards();
-                Assert.AreEqual("one thousand eight hundred and thirty four", inWords);
+                Assert.AreEqual("eighteen quintillion ", inWords);
             }
         }
     }
